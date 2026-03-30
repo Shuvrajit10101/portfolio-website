@@ -61,4 +61,8 @@ data/
 /tmp/
 *.csv
 backend/.env
-*.md
+
+# Ignore only specific md files
+memory/*.md
+AIRTABLE_SETUP.md
+GITHUB_SETUP.md
