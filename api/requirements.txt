@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-pydantic
-email-validator
-pyairtable
-requests
