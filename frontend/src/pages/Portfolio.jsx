@@ -9,7 +9,7 @@ import Education from '../components/Education';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
 import MatrixBackground from '../components/MatrixBackground';
-import { mockData } from '../data/mock.js';
+import { mockData } from '../mockData';
 
 const Portfolio = () => {
   const [data, setData] = useState(null);
